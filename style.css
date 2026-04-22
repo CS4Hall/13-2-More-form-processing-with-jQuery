@@ -4,10 +4,10 @@ h1{
   padding: 30px 10px;
   font-size: 3em;
   background-size: 50px;
-  color: black;
+  color: rgb(0, 0, 0);
 }
 
 
 #donut-form{
-  padding-top: 100px;
+  padding-top: 80px;
 }
